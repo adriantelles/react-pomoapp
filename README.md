@@ -2,8 +2,7 @@
 
 > Tiny pomodoro app built with React.js
 
-![Screenshot](https://github.com/adriantelles/react-pomoapp/screen.png)
-
+![Screenshot] https://raw.githubusercontent.com/adriantelles/pomoapp/master/screen.png
 ## Features
 
 - Statistic per task: succesful pomodoros and failed pomodoros
