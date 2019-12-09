@@ -2,23 +2,19 @@
 
 > Tiny pomodoro app built with React.js
 
-![Screenshot](https://raw.githubusercontent.com/OlegWock/pomoapp/master/screen.png)
+![Screenshot](https://https://github.com/adriantelles/react-pomoapp/screen.png)
 
 ## Features
 
-* Statistic per task: succesful pomodoros and failed pomodoros
+- Statistic per task: succesful pomodoros and failed pomodoros
 
-* Daily statistics 
+- Daily statistics
 
-* Long rest every 4 pomodoros 
-
-## Demo?
-
-Yes, [here](http://olegwock.github.io/pomodoroapp/) it is.
+- Long rest every 4 pomodoros
 
 ## I like it and have a nice feature to implement
 
-Please, fork this repo, implement your feature and make pull request. 
+Please, fork this repo, implement your feature and make pull request.
 
 First of all, install all dependencies:
 
@@ -26,7 +22,7 @@ First of all, install all dependencies:
 npm install
 ```
 
-Webpack is configured to run dev server with autoreload. Run it by 
+Webpack is configured to run dev server with autoreload. Run it by
 
 ```
 npm start
@@ -35,8 +31,8 @@ npm start
 You also can use gulp (but in this case autoreload will not work).
 
 ```
-gulp watch 
-# or just 
+gulp watch
+# or just
 gulp
 ```
 
@@ -51,5 +47,3 @@ Also gulp has task to build chrome extension:
 ```
 gulp build:extension
 ```
-
-Licensed under MIT.
