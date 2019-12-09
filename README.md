@@ -2,7 +2,7 @@
 
 > Tiny pomodoro app built with React.js
 
-![Screenshot](https://https://github.com/adriantelles/react-pomoapp/screen.png)
+![Screenshot](https://github.com/adriantelles/react-pomoapp/screen.png)
 
 ## Features
 
@@ -11,12 +11,6 @@
 - Daily statistics
 
 - Long rest every 4 pomodoros
-
-## I like it and have a nice feature to implement
-
-Please, fork this repo, implement your feature and make pull request.
-
-First of all, install all dependencies:
 
 ```
 npm install
